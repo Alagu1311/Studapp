@@ -1,0 +1,57 @@
+.bor{
+ 
+  width: 200px;
+  height: 300px;
+  margin: 20px;
+  padding: 5px;
+  justify-content: center;
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  margin: 2px;
+}
+.btn{
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+.btngrp{
+  display: flex;
+    justify-content: end;
+    gap: 1rem;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.titcen{
+  text-align: center;
+}
+.inputgrp{
+  margin-left: 450px;
+  margin-top: 30px;
+}
+.inputgrp{
+  border: 1px solid black;
+  width: 350px;
+  height: 200px;
+  padding: 20px;
+}
+.inmar{
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.addbtn{
+  margin-left: 98px;
+  margin-top: 20px;
+  width: 100px;
+}
+.papbor{
+  border: 1px solid whitesmoke;
+  height: 250px;
+}
+.texalcen{
+  text-align: center;
+  margin-left: 20px;
+}

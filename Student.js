@@ -1,0 +1,39 @@
+const studdata = [
+     {
+        id:1,
+        Name:"Alagupandi",
+        Dep:"Mech",
+        Sem:"Eight",
+        Cgpa:8.2
+    },
+  
+    {
+        id:2,
+        Name:"Arun",
+        Dep:"Ece",
+        Sem:"Eight",
+        Cgpa:8.6
+    },
+    {
+        id:3,
+        Name:"Sushmitha",
+        Dep:"CSE",
+        Sem:"Eight",
+        Cgpa:8.9,
+    },
+    {
+        id:4,
+        Name:"Sudharson",
+        Dep:"Civil",
+        Sem:"Eight",
+        Cgpa:8.5
+    },
+    {
+        id:5,
+        Name:"Sudhakar",
+        Dep:"EEE",
+        Sem:"Eight",
+        Cgpa:8.6
+    },
+]
+export default studdata;
